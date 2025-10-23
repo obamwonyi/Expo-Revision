@@ -1,50 +1,34 @@
-# Welcome to your Expo app 👋
+# Revision of the use of Expo in React-Native Development
+This project was implemented based on the expo [tutorial](https://docs.expo.dev/tutorial/introduction/) provided in the [expo](https://expo.dev) site for understanding
+the use of expo with [React-Native](https://reactnative.dev/) development.
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
-## Get started
+## How to run this project (Non Dev)
+* Download the expo go app [here](https://expo.dev/go)
+* Copy the link below in the enter url section of the page shown in the image below <br>
+> 
 
-1. Install dependencies
+<img src="./assets/images/screenshot.png" alt="screenshot" style="max-width: 100px; height: auto;"><br>
 
-   ```bash
-   npm install
-   ```
+* Then click the connect button you see from the dropdown.
 
-2. Start the app
+## How to run this project (as a dev with android emulator)
+Run the following commands below
 
-   ```bash
-   npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
+### Clone The Repo
+```shell 
+git clone https://github.com/obamwonyi/Expo-Revision
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+### Run the code
+* cd into the project main directory
+* Then run the command below
 
-## Learn more
+```shell 
+npx expo start --clear
+```
 
-To learn more about developing your project with Expo, look at the following resources:
+* Click a ( to open on android emulator ), i ( to open on iOS), or w ( to open on web ).
+<br>
+Please Note: the project is built to run on the three platforms specified above so things will work fine.
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
