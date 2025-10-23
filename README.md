@@ -6,7 +6,7 @@ the use of expo with [React-Native](https://reactnative.dev/) development.
 ## How to run this project (Non Dev)
 * Download the expo go app [here](https://expo.dev/go)
 * Copy the link below in the enter url section of the page shown in the image below <br>
-> 
+> https://expo.dev/preview/update?message=Completed+tutorial&updateRuntimeVersion=1.0.0&createdAt=2025-10-23T16%3A27%3A32.673Z&slug=exp&projectId=89474b62-cda0-4db7-9ac5-7a33c9822b83&group=0ab54b2e-f509-4b72-a941-62ed834857f6
 
 <img src="./assets/images/screenshot.png" alt="screenshot" style="max-width: 100px; height: auto;"><br>
 

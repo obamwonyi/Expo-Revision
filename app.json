@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "directlet-mobile-app",
-    "slug": "directlet-mobile-app",
+    "name": "revision-app",
+    "slug": "revision-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -39,6 +39,17 @@
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "89474b62-cda0-4db7-9ac5-7a33c9822b83"
+      }
+    },
+    "owner": "netweaver",
+    "runtimeVersion": "1.0.0",
+    "updates": {
+      "url": "https://u.expo.dev/89474b62-cda0-4db7-9ac5-7a33c9822b83"
     }
   }
 }
